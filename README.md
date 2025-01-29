@@ -1,1 +1,1 @@
-# inspriration Lama Dev Chat App Starter template
+# Inspriration From Lama Dev Chat App Starter template
